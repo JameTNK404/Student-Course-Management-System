@@ -21,8 +21,8 @@ RESTful API สำหรับจัดการข้อมูลนักเ�
 ### ขั้นตอนการติดตั้ง
 1.  **Clone Repository**:
     ```bash
-    git clone <repository_url>
-    cd <repository_folder>
+    git clone https://github.com/JameTNK404/Student-Course-Management-System.git
+    cd Student-Course-Management-System
     ```
 
 2.  **ติดตั้ง Dependencies**:
